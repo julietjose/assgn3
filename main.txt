@@ -1,4 +1,8 @@
+I am juliet
 changes made by pooja
 i am juliet
 hello this is merin typing
+<<<<<<< HEAD
 POOJA PATIL
+=======
+>>>>>>> 74e887a107cd5fa51db4cce1dd0f38f6b9c09653
